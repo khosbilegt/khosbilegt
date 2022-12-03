@@ -28,5 +28,5 @@ More about me!
 ---
 
 Even more about me!
-LinkedIn [here.]
-(https://www.linkedin.com/in/khosbilegt-bilegsaikhan-82929424b/)
+
+LinkedIn [here.](https://www.linkedin.com/in/khosbilegt-bilegsaikhan-82929424b/)
