@@ -18,7 +18,7 @@ More about me!
 
  1. 📺 Certified Nerd
  2. 🎸 Metal Enthusiast
- 3. 🎮 Languished Gamer
+ 3. 🎮 Retired Gamer
  4. 📏 Chronic Perfectionist
  5. 💤 Incessant Procrastinator 
  6. 🐝 Easily Obsessed
