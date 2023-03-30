@@ -24,6 +24,7 @@ More about me!
  7. 🎭 Extroverted Introvert
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khosbilegt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khosbilegt&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Spamming delete](https://64.media.tumblr.com/e8fd3aa29526c41511c60505f64a0098/tumblr_psdjxl5hCT1t9q05y_540.gif)
 
