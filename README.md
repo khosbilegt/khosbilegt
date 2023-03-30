@@ -23,7 +23,7 @@ More about me!
  6. 🐝 Easily Obsessed
  7. 🎭 Extroverted Introvert
 
-https://www.google.com/search?client=safari&rls=en&q=%5B!%5BAnurag%27s+GitHub+stats%5D(https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dkhosbilegt)%5D(https%3A%2F%2Fgithub.com%2Fanuraghazra%2Fgithub-readme-stats)&ie=UTF-8&oe=UTF-8
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khosbilegt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Spamming delete](https://64.media.tumblr.com/e8fd3aa29526c41511c60505f64a0098/tumblr_psdjxl5hCT1t9q05y_540.gif)
 
