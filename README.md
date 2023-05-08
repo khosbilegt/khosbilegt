@@ -26,7 +26,7 @@
 ...but everyone knows that just knowing languages isn't enough.
 
 ### Inventory
-![Inventory](https://i.imgur.com/BiBDXiu.png)
+![Inventory](https://i.imgur.com/VIRQNya.png)
 
 ---
 
