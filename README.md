@@ -35,7 +35,7 @@ As for me as a person:
  1. 📺 Certified Nerd
  2. 🎸 Metal Enthusiast
  3. 🎮 Retired Gamer
- 4. 📏 Chronic Perfectionist
+ 4. 📏 Self-Diagnosed OCD
  5. 💤 Incessant Procrastinator 
  6. 🐝 Easily Obsessed
  7. 🎭 Extrovert by Need
