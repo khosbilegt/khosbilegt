@@ -1,19 +1,35 @@
-# The Master of Uncompleted Quests
+# The Programmer
 ![Profile Picture](https://socialmagz.com/wp-content/uploads/2020/12/anime-glasses.jpg)
-|Date Created| Quest | Progress | 
-|--|--|--|
-| 2012 | Make a VR Game | 0.99% |
-| 2018 | Make a Website | 9.99% |
-| 2019 | Write a Novel | 19.99% |
-| 2021 | Make a Rest API | 39.99% |
-| 2022 | Make a 3D Game | 79.99% |
 
-One day, I will finish something!
+Who am I?
 
-But for now, my ~~incomplete~~ [web](https://github.com/khosbilegt/khosbilegt). ~~Even the link isn't working properly yet.~~
+|Status Screen | --
+|--|--
+| First Name | Khosbilegt 
+| Last Name | Bilegsaikhan
+| Class | Programmer
+| Level |20 (9/12)
+
+How many languages do I know?
+
+|Language | Proficiency | Greatest Feat
+|--|--| --
+| Javascript | Level 10/10 | Wrote a code for an Admin Panel that utilizes Firebase and React.js.
+| Dart | Level 9/10 | Wrote a Traffic Test application with fancy charts and diagrams.
+| Python | Level 8/10| Made a Data Scraper for [zangia.mn](https://www.zangia.mn) and trained a Machine Learning model that computes the salary range of job postings in a district of Ulaanbaatar by profession.
+| C++ | Level 8/10| Used the antiquated Kinect SDK to develop a 3D Space Shooter game.
+| Java | Level 7/10| Implemented a Rest API to serve files with Spring Boot and a login system with Email verification.
+| C | Level 6/10| Implemented a Tic-Tac-Toe console game that uses the TCP Server-Client model.
+| Matlab | Level 5/10| Implemented a tool to recognize coins from a picture, outline them, then guess the number on top of them.
+| ...and a lot more languages that I theoretically know| 
+
+...but everyone knows that just knowing languages isn't enough.
+
+### Inventory
 
 ---
-More about me!
+
+As for me, I'm a:
 
  1. 📺 Certified Nerd
  2. 🎸 Metal Enthusiast
@@ -21,10 +37,7 @@ More about me!
  4. 📏 Chronic Perfectionist
  5. 💤 Incessant Procrastinator 
  6. 🐝 Easily Obsessed
- 7. 🎭 Extroverted Introvert
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khosbilegt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khosbilegt&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+ 7. 🎭 Extrovert by Need
 
 ![Spamming delete](https://64.media.tumblr.com/e8fd3aa29526c41511c60505f64a0098/tumblr_psdjxl5hCT1t9q05y_540.gif)
 
