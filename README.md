@@ -8,7 +8,7 @@
 |--|--
 | First Name | Khosbilegt 
 | Last Name | Bilegsaikhan
-| Education | Bachelor
+| Education | Bachelor of Computer Science
 | Level | 21
 
 ### Skillbook
