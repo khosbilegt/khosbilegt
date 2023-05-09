@@ -1,7 +1,4 @@
 # The Programmer
-
-![Me](https://i.pinimg.com/originals/9e/f6/89/9ef68902babe1eb554f826df5bc5633e.jpg)
-
 ### Status Screen
 
 | Class | Programmer
