@@ -1,0 +1,30 @@
+:root {
+     --text-color: #87cbd5;
+     --dark-background: #201d28;
+     --light-background: #BEBABB;
+     --light-accent: #5C718E;
+     --dark-accent: #385A72;
+}
+
+body {
+     background-color: var(--light-background);
+}
+
+.Navbar {
+     background-color: var(--dark-background);
+     height: 50px;
+     display: flex;
+     justify-content: center;
+}
+
+.Navbar ul {
+     display: flex;
+     width: 250px;
+     justify-content: space-between;
+}
+
+.Navbar a {
+     color: var(--text-color);
+     text-decoration: none;
+     line-height: 50px;
+}
