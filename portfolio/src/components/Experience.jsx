@@ -1,11 +1,12 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
+import { Element } from 'react-scroll';
 import styles from '../styles';
 import { experienceInfo } from '../constants';
 
 function Experience() {
   return (
-  <div className={`${styles.paddingX}`}>
+  <Element name="experience" className={`${styles.paddingX}`}>
      <h1 className={`text-gray-300 text-[20px] font-light mb-5`}>
           Experience
      </h1>
@@ -23,7 +24,7 @@ function Experience() {
                </li>
           ))}
      </ol>
-  </div>
+  </Element>
   )
 }
 

@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { Navbar, Hero, About, Experience, Education } from "./components";
+import { Navbar, Hero, About, Experience, Education, Works } from "./components";
 import styles from './styles';
 
 const App = () => {
@@ -32,11 +32,16 @@ const App = () => {
           <Experience />
         </div>
       </div>
-      
 
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>
           <About />
+        </div>
+      </div>
+
+      <div className={`${styles.paddingX} ${styles.flexCenter}`}>
+        <div className={`${styles.boxWidth}`}>
+          <Works />
         </div>
       </div>
       

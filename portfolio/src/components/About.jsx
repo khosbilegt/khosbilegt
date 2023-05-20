@@ -2,7 +2,6 @@ import React from 'react';
 import { Element } from 'react-scroll';
 import { Radar, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, ResponsiveContainer, Tooltip } from 'recharts';
 import { radarData, aboutText } from '../constants';
-import { Console } from './';
 import styles from '../styles';
 
 function About() {
@@ -13,9 +12,6 @@ function About() {
         About me
       </h1>
       <p className={`${styles.paddingX} text-gray-200`}>{aboutText[0]}</p>
-      <Console />
-
-      <p className={`${styles.paddingX} ${styles.paddingY}  text-gray-200`}>{aboutText[1]}</p>
       <ResponsiveContainer width="100%" height={300}>
           <RadarChart cx="50%" cy="50%" outerRadius="80%" data={radarData}>
               <PolarGrid />

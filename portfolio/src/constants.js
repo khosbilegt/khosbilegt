@@ -4,12 +4,12 @@ export const navLinks = [
           title: "Home"
      },
      {
-          id: "about",
-          title: "About me"
+          id: "experience",
+          title: "Experience"
      },
      {
-          id: "works",
-          title: "Works"
+          id: "about",
+          title: "About me"
      },
 ]
 
@@ -29,7 +29,7 @@ export const experienceInfo = [
   {
     title: "Digital Solutions",
     date: "May 2022 - June 2022",
-    info: "Worked on a Linked List implementation for a sorting algorithm that stored instances of the same mesh to optimize rendering.",
+    info: "Implemented a modified version of a Linked List from scratch for a sorting algorithm that stored the info of several instances of the same mesh to optimize rendering.",
     link: "Guyuk Metaverse",
     url: "https://guyuk.mn/"
   },
@@ -40,10 +40,39 @@ export const educationInfo = [
     title: "National University of Mongolia",
     date: "September 2020 - May 2023",
     info: "Completed a Bachelor's Degree in Computer Science within 3 years. My thesis was on Motion-based Interactive Game Development wherein I proposed an architecture that allows for the rapid implementation of new motion controllers rather than supporting a single product.",
+    img: "image",
     link: "Space Pilot Demo",
     url: "https://youtu.be/NuF38_t82_k"
   },
 ]
+
+export const worksInfo = [
+  {
+    title: "3D Space Shooter Game for Microsoft Kinect",
+    info: "Developed a 3D survival game where you pilot a spaceship with the movements of your hands in Unreal Engine.",
+    image: "https://i.imgur.com/tWciBO9.png",
+    url: "https://youtu.be/NuF38_t82_k"
+  },
+  {
+    title: "Data Visualizer for a Pharmaceutical Company",
+    info: "Implemented a Data Visualizer that reads CSV files and displays linear charts in Java Swing.",
+    image: "https://i.imgur.com/6F0w4OC.png",
+    url: "https://github.com/khosbilegt/GraphVisualizer"
+  },
+  {
+    title: "Building Replica in Three.JS",
+    info: "Built a replica of a building from a house plan in ThreeJS.",
+    image: "https://i.imgur.com/fSMm7sU.png",
+    url: "https://github.com/khosbilegt/building"
+  },
+  {
+    title: "Feature Extraction with Facial Landmarks & Geometry",
+    info: "Used the 68 Facial Landmarks to extract the features from an input image to create primitive 3D models.",
+    image: "https://i.imgur.com/Z3NmBLM.png",
+    url: "https://drive.google.com/file/d/1a9TM1EF_eyNjFv2_iN6LGt7M6piuDLad/view?usp=sharing"
+  },
+]
+
 
 export const aboutText = 
 [
