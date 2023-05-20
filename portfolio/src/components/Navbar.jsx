@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { navLinks } from '../constants';
 import { Link } from 'react-router-dom';
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai';
@@ -16,7 +16,7 @@ const Navbar = () => {
                          <li
                          key={nav.id}
                          className={`font-poppins font-normal cursor-pointer
-                         text-[16px] text-white 
+                         text-[16px] text-white  hover:text-teal-300 transition-all
                          ${index == navLinks.length - 1 ? 'mr-0' : 'mr-10'}
                          `}>
                               <Link to={`#${nav.id}`}>
@@ -41,7 +41,7 @@ const Navbar = () => {
                               <li
                               key={nav.id}
                               className={`font-poppins font-normal cursor-pointer
-                              text-[16px] text-white 
+                              text-[16px] text-white hover:text-teal-300
                               ${index == navLinks.length - 1 ? 'mb-0' : 'mb-4'}
                               `}>
                                    <Link to={`#${nav.id}`}>
