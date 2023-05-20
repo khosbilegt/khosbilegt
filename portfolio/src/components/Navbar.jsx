@@ -1,15 +1,18 @@
 import { useState } from 'react';
 import { navLinks } from '../constants';
-import { Link } from 'react-router-dom';
+import { Link} from 'react-scroll';
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai';
-import styles from '../styles';
 
 const Navbar = () => {
      const [toggle, setToggle] = useState(false);
 
      return (
           <nav className='w-full flex py-6 justify-between items-center navbar'>
-               <h1 className='w-[124px] h-[32px] bg-slate-50'>Xocoo</h1>
+               <p className='w-[124px] h-[32px] text-[20px] text-white 
+               font-light'>
+                    <span className='text-gradient font-semibold'>X</span>
+                    ocoo
+               </p>
                <ul className='list-none sm:flex hidden 
                justify-end items-center flex-1'>
                     {navLinks.map((nav, index) => (
@@ -19,7 +22,7 @@ const Navbar = () => {
                          text-[16px] text-white  hover:text-teal-300 transition-all
                          ${index == navLinks.length - 1 ? 'mr-0' : 'mr-10'}
                          `}>
-                              <Link to={`#${nav.id}`}>
+                              <Link to={`#${nav.id}`} smooth="true">
                                    {nav.title}
                               </Link>
                          </li>
@@ -44,7 +47,7 @@ const Navbar = () => {
                               text-[16px] text-white hover:text-teal-300
                               ${index == navLinks.length - 1 ? 'mb-0' : 'mb-4'}
                               `}>
-                                   <Link to={`#${nav.id}`}>
+                                   <Link to={`${nav.id}`} smooth="true" duration={200}>
                                         {nav.title}
                                    </Link>
                               </li>
@@ -56,3 +59,5 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+//{`#${nav.id}`}
