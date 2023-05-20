@@ -23,6 +23,12 @@ const App = () => {
 
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>
+          <About />
+        </div>
+      </div>
+
+      <div className={`${styles.paddingX} ${styles.flexCenter}`}>
+        <div className={`${styles.boxWidth}`}>
           <Education />
         </div>
       </div>
@@ -30,12 +36,6 @@ const App = () => {
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>
           <Experience />
-        </div>
-      </div>
-
-      <div className={`${styles.paddingX} ${styles.flexCenter}`}>
-        <div className={`${styles.boxWidth}`}>
-          <About />
         </div>
       </div>
 

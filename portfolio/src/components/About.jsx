@@ -11,7 +11,7 @@ function About() {
       <h1 className={`text-gray-300 text-[20px] font-light ${styles.paddingX}`}>
         About me
       </h1>
-      <p className={`${styles.paddingX} text-gray-200`}>{aboutText[0]}</p>
+      <p className={`${styles.paddingX} text-gray-200 mb-[10px] mt-[5px]`}>{aboutText[0]}</p>
       <ResponsiveContainer width="100%" height={300}>
           <RadarChart cx="50%" cy="50%" outerRadius="80%" data={radarData}>
               <PolarGrid />
@@ -22,6 +22,8 @@ function About() {
               fillOpacity={0.6} />
           </RadarChart>
       </ResponsiveContainer>
+      <p className={`${styles.paddingX} text-gray-200 mb-[10px] mt-[5px]`}>{aboutText[1]}</p>
+      <img src="https://i.imgur.com/VIRQNya.png" className={`w-full ${styles.paddingX} mb-[20px]`}/>
     </Element>
   );
 }
