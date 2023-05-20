@@ -7,7 +7,7 @@ const Navbar = () => {
      const [toggle, setToggle] = useState(false);
 
      return (
-          <nav className='w-full flex py-6 justify-between items-center navbar'>
+          <nav className='w-full flex py-6 justify-between items-center navbar sticky top-0'>
                <p className='w-[124px] h-[32px] text-[20px] text-white 
                font-light'>
                     <span className='text-gradient font-semibold'>X</span>
@@ -22,7 +22,7 @@ const Navbar = () => {
                          text-[16px] text-white  hover:text-teal-300 transition-all
                          ${index == navLinks.length - 1 ? 'mr-0' : 'mr-10'}
                          `}>
-                              <Link to={`#${nav.id}`} smooth="true">
+                              <Link to={`${nav.id}`} smooth="true">
                                    {nav.title}
                               </Link>
                          </li>

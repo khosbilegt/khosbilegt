@@ -18,9 +18,39 @@ export const cvLink = 'data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAA
 export const heroText = "I'm a Software Developer based in Mongolia with over a year"
 + " of freelancing experience and 6 months of professional experience in a startup. "
 
-//
-// Radar
-//
+export const experienceInfo = [
+  {
+    title: "Digital Solutions",
+    date: "June 2022 - November 2022",
+    info: "Implemented a Media Streaming tool that is synchronized across all instances of a multiplayer game with over 5,000 users.",
+    link: "Guyuk Metaverse",
+    url: "https://guyuk.mn/"
+  },
+  {
+    title: "Digital Solutions",
+    date: "May 2022 - June 2022",
+    info: "Worked on a Linked List implementation for a sorting algorithm that stored instances of the same mesh to optimize rendering.",
+    link: "Guyuk Metaverse",
+    url: "https://guyuk.mn/"
+  },
+]
+
+export const educationInfo = [
+  {
+    title: "National University of Mongolia",
+    date: "September 2020 - May 2023",
+    info: "Completed a Bachelor's Degree in Computer Science within 3 years. My thesis was on Motion-based Interactive Game Development wherein I proposed an architecture that allows for the rapid implementation of new motion controllers rather than supporting a single product.",
+    link: "Space Pilot Demo",
+    url: "https://youtu.be/NuF38_t82_k"
+  },
+]
+
+export const aboutText = 
+[
+  "My coding journey started roughly 4 years ago when I coded my first command line game like everyone else.",
+  "Then I enrolled into the National University of Mongolia.",
+];
+
 export const radarData = [
      {
        subject: 'Adaptability',
@@ -35,11 +65,11 @@ export const radarData = [
        A: 70,
      },
      {
-       subject: 'Creativity',
-       A: 80,
-     },
-     {
        subject: 'Experience',
        A: 50,
+     },
+     {
+       subject: 'Creativity',
+       A: 80,
      },
 ];

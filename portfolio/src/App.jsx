@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { Navbar, Hero, About } from "./components";
+import { Navbar, Hero, About, Experience, Education } from "./components";
 import styles from './styles';
 
 const App = () => {
@@ -8,18 +8,31 @@ const App = () => {
   }, []);
 
   return (
-    <div className="bg-zinc-900 w-full overflow-hidden">
+    <div className="bg-zinc-900 w-full">
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>
           <Navbar />
         </div>
       </div>
 
-      <div className={`${styles.paddingX} ${styles.flexStart}`}>
+      <div className={`${styles.paddingX} ${styles.paddingY} ${styles.flexStart} w-full h-[100%]`}>
         <div className={`${styles.boxWidth}`}>
             <Hero />
         </div>
       </div>
+
+      <div className={`${styles.paddingX} ${styles.flexCenter}`}>
+        <div className={`${styles.boxWidth}`}>
+          <Education />
+        </div>
+      </div>
+
+      <div className={`${styles.paddingX} ${styles.flexCenter}`}>
+        <div className={`${styles.boxWidth}`}>
+          <Experience />
+        </div>
+      </div>
+      
 
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>

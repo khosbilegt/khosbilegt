@@ -9,7 +9,11 @@ module.exports = {
     },
   },
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        majorMono: ["Major Mono", 'monospace']
+      }
+    },
   },
   plugins: [],
 }

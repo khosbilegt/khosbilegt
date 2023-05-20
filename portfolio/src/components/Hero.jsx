@@ -10,7 +10,7 @@ const Hero = () => (
     <div className={`flex-1 ${styles.flexStart} flex-col 
     xl:px-0 sm:px-16 px-6`}>
       <div className='flex flex-row justify-between items-center w-full'>
-        <h1 className='flex-1 font-poppins font-semibold ss:text-[72px]
+        <h1 className='flex-1 font-poppins font-light ss:text-[72px]
         text-[52px] text-white ss:leading-[100px]'>
           Hi, I am <br className='sm:block hidden'/>
           <span className='text-gradient'>Khosoo.</span>
@@ -30,12 +30,8 @@ const Hero = () => (
       <div className="sm:hidden absolute top-10 right-10 z-10">
           <CVButton />
       </div>
-      <div className='pink__gradient w-[20%] h-[20%] z-0
-      absolute top-0 right-0'/>
-      <div className='blue__gradient w-[50%] h-[50%] z-0
-      absolute top-0 right-0'/>
-      <div className='white__gradient w-[30%] h-[100%] z-0
-      absolute top-0 right-0'/>
+      <div className='white__gradient w-[40%] h-[80%] z-0
+      absolute top-20'/>
     </div>
 
   </Element>
