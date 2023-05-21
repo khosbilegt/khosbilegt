@@ -6,7 +6,7 @@ import { Element } from 'react-scroll';
 
 const Hero = () => (
   <Element name="home" className={`flex md:flex-row flex-col
-   ${styles.paddingY} h-[100%]`}>
+   ${styles.paddingY} h-[90%]`}>
     <div className={`flex-1 ${styles.flexStart} flex-col 
     xl:px-0 sm:px-16 px-6`}>
       <div className='flex flex-row justify-between items-start w-full'>

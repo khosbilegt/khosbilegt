@@ -109,3 +109,22 @@ export const radarData = [
 ];
 
 export const toolsImg = "https://i.imgur.com/VIRQNya.png";
+
+export const socialMedia = [
+  {
+    title: "git",
+    url: "https://github.com/khosbilegt",
+  },
+  {
+    title: "linkedin",
+    url: "https://www.linkedin.com/in/khosbilegt-bilegsaikhan-82929424b/",
+  },
+  {
+    title: "fb",
+    url: "https://www.facebook.com/khosbilegt.bilegsaikhan.5/"
+  },
+  {
+    title: "yt",
+    url: "https://www.youtube.com/channel/UC-EIGfu0c1OitjXlR5mjGUg"
+  },
+];
