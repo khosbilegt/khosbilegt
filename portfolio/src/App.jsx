@@ -4,7 +4,7 @@ import styles from './styles';
 
 const App = () => {
   useEffect(() => {
-    document.title = "Khosoo's Portfolio";
+    document.title = "Xocoo's Portfolio";
   }, []);
 
   return (
