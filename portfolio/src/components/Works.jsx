@@ -11,16 +11,16 @@ function Works() {
                Currently working on
           </h1>
           <div className={`w-full flex-wrap gap-[20px] flex ${styles.flexCenter}`}>
-               <div className={`rounded-lg max-w-sm p-6 h-[300px]
+               <div className={`rounded-lg max-w-sm p-6 h-[350px]
                          border shadow bg-gray-800 border-gray-700`}>
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-white h-[75px]">
                          {currentWorkInfo.title}
                     </h5>
                     <p class="mb-3 mt-3 font-normal text-gray-400
-                    h-[75px]">
+                    h-[100px]">
                          {currentWorkInfo.info}
                     </p>
-                    <div className={`${styles.flexCenter} mt-10`}>
+                    <div className={`${styles.flexCenter} mt-[25px]`}>
                          <span className={`"inline-flex items-center px-3 py-2.5 
                          text-sm font-medium text-center text-white rounded-lg 
                          focus:outline-none bg-teal-600`} key={"t"}>
