@@ -30,7 +30,7 @@ function Works() {
                          text-sm font-medium text-center text-white rounded-lg 
                          focus:outline-none bg-blue-600 hover:bg-blue-700 ml-5">
                               Work in Progress
-                              <AiOutlineLoading3Quarters className='ml-3'/>
+                              <AiOutlineLoading3Quarters className='ml-3 animate-spin'/>
                          </span>
                     </div>
                </div>
