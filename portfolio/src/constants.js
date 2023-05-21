@@ -54,6 +54,14 @@ export const educationInfo = [
   },
 ]
 
+export const currentWorkInfo = {
+  title: "Cross-Platform Traffic Test App for a Traffic School",
+  info: "Currently developing a test application for traffic schools that offers an all-in-one solution for online classes, a traffic handbook and driving practice booking.",
+  image: "https://i.imgur.com/tWciBO9.png",
+  url: "https://youtu.be/NuF38_t82_k",
+  tag: "Flutter"
+};
+
 export const worksInfo = [
   {
     title: "3D Space Shooter Game for Microsoft Kinect",
