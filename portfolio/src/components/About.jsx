@@ -23,7 +23,7 @@ function About() {
           </RadarChart>
       </ResponsiveContainer>
       <p className={`${styles.paddingX} text-gray-200 mb-[10px] mt-[5px]`}>{aboutText[1]}</p>
-      <img src="https://i.imgur.com/VIRQNya.png" className={`w-full ${styles.paddingX} mb-[20px]`}/>
+      <img src="https://i.imgur.com/VIRQNya.png" className={`w-full ${styles.paddingX} mb-[20px]`} alt=""/>
     </Element>
   );
 }

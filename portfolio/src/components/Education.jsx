@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom';
 import { Element } from 'react-scroll';
 import styles from '../styles';
 import { educationInfo } from '../constants';
@@ -20,7 +19,7 @@ function Education() {
                     <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">{val.title}</h3>
                     <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">{val.date}</time>
                     <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">{val.info}</p>
-                    <Link to={`${val.url}`} className='text-blue-500 underline'>{val.link}</Link>
+                    <a href={`${val.url}`} className='text-blue-500 underline'>{val.link}</a>
                </li>
           ))}
      </ol>

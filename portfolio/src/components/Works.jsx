@@ -25,7 +25,7 @@ function Works() {
                          {val.image ? 
                          <div className={`w-full flex ${styles.flexCenter}`}>
                               <img src={val.image} className="h-[150px] border-gray-600 
-                              rounded-lg border-[2px] mb-5"/>
+                              rounded-lg border-[2px] mb-5" alt=""/>
                          </div>
                          : 
                          <p></p>

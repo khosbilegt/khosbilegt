@@ -37,7 +37,7 @@ export const experienceInfo = [
   {
     title: "Digital Solutions",
     date: "May 2022 - June 2022",
-    info: "Implemented a modified version of a Linked List from scratch for a sorting algorithm that stored the info of several instances of the same mesh to optimize rendering.",
+    info: "Implemented a modified version of a Linked List from scratch for a sorting algorithm that stores the info of several instances of the same mesh to optimize rendering.",
     link: "Guyuk Metaverse",
     url: "https://guyuk.mn/"
   },
