@@ -21,8 +21,8 @@ export const heroText = "I'm a Software Developer based in Mongolia with over a 
 export const aboutText =
 [
   "I'm a Software Developer with a passion for games and all things 3D. "
-  + "I've spent the last few years in university, hopping from one collaborative project to another."
-  + "",
+  + "I've spent the last few years in university, hopping from one collaborative project to another. "
+  + "In the process, I've found in what fields I excel in as well as in what fields I am lacking.",
   "I've dabbled into one too many languages and tools, but my expertise lies in:"
 ];
 
@@ -60,7 +60,7 @@ export const worksInfo = [
     info: "Developed a 3D survival game where you pilot a spaceship with the movements of your hands in Unreal Engine.",
     image: "https://i.imgur.com/tWciBO9.png",
     url: "https://youtu.be/NuF38_t82_k",
-    tag: "C++/Unreal Engine"
+    tag: "C++/UE4"
   },
   {
     title: "Data Visualizer for a Pharmaceutical Company",
@@ -107,3 +107,5 @@ export const radarData = [
        A: 80,
      },
 ];
+
+export const toolsImg = "https://i.imgur.com/VIRQNya.png";

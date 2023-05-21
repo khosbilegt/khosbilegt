@@ -1,11 +1,10 @@
 import React from 'react';
 import { Element } from 'react-scroll';
 import { Radar, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, ResponsiveContainer, Tooltip } from 'recharts';
-import { radarData, aboutText } from '../constants';
+import { radarData, aboutText, toolsImg } from '../constants';
 import styles from '../styles';
 
 function About() {
-
   return (
     <Element name="about">
       <h1 className={`text-gray-300 text-[20px] font-light ${styles.paddingX}`}>
@@ -23,7 +22,9 @@ function About() {
           </RadarChart>
       </ResponsiveContainer>
       <p className={`${styles.paddingX} text-gray-200 mb-[10px] mt-[5px]`}>{aboutText[1]}</p>
-      <img src="https://i.imgur.com/VIRQNya.png" className={`w-full ${styles.paddingX} mb-[20px]`} alt=""/>
+      <div className={`flex w-full ${styles.flexCenter}`}>
+        <img src={toolsImg} className={`md:w-[60%] w-full ${styles.paddingX} mb-[20px]`} alt=""/>
+      </div>
     </Element>
   );
 }
