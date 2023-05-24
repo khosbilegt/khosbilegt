@@ -45,11 +45,7 @@ const App = () => {
         </div>
       </div>
 
-      <div className={`${styles.flexCenter}`}>
-        <div className={`${styles.boxWidth}`}>
-          <Footer />
-        </div>
-      </div>
+      <Footer />
       
     </div>
   );

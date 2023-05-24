@@ -15,14 +15,14 @@ const Footer = () => (
                          case "fb":
                               return <a href={val.url}>
                               <BsFacebook 
-                              className='text-blue-400 transition-all
-                              text-[30px] hover:text-blue-100'/>
+                              className='text-gray-400 transition-all
+                              text-[30px] hover:text-gray-100'/>
                               </a>
                          case "linkedin":
                               return <a href={val.url}>
                               <BsLinkedin 
-                              className='text-blue-400 transition-all
-                              text-[30px] hover:text-blue-100'/>
+                              className='text-gray-400 transition-all
+                              text-[30px] hover:text-gray-100'/>
                               </a>
                          case "git":
                               return <a href={val.url}>
@@ -33,7 +33,7 @@ const Footer = () => (
                          case "yt":
                               return <a href={val.url}>
                               <BsYoutube 
-                              className='text-red-400 transition-all
+                              className='text-gray-400 transition-all
                               text-[30px] hover:text-gray-100'/>
                               </a>
                     }
