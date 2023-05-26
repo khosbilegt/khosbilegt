@@ -1,6 +1,6 @@
 import React from 'react'
 import { Element } from 'react-scroll';
-import { currentWorkInfo, worksInfo } from '../constants';
+import { currentWorksInfo, worksInfo } from '../constants';
 import { AiOutlineLoading3Quarters } from 'react-icons/ai';
 import styles from '../styles';
 
@@ -10,30 +10,33 @@ function Works() {
           <h1 className={`text-gray-300 text-[20px] font-light mb-5`}>
                Currently working on
           </h1>
-          <div className={`w-full flex-wrap gap-[20px] flex ${styles.flexCenter}`}>
-               <div className={`rounded-lg max-w-sm p-6 h-[350px]
-                         border shadow bg-gray-800 border-gray-700`}>
-                    <h5 class="mb-2 text-2xl font-bold tracking-tight text-white h-[75px]">
-                         {currentWorkInfo.title}
-                    </h5>
-                    <p class="mb-3 mt-3 font-normal text-gray-400
-                    h-[100px]">
-                         {currentWorkInfo.info}
-                    </p>
-                    <div className={`${styles.flexCenter} mt-[25px]`}>
-                         <span className={`"inline-flex items-center px-3 py-2.5 
-                         text-sm font-medium text-center text-white rounded-lg 
-                         focus:outline-none bg-teal-600`} key={"t"}>
-                              {currentWorkInfo.tag}
-                         </span>
-                         <span className="inline-flex items-center px-3 py-[9px] 
-                         text-sm font-medium text-center text-white rounded-lg 
-                         focus:outline-none bg-blue-600 hover:bg-blue-700 ml-5">
-                              Work in Progress
-                              <AiOutlineLoading3Quarters className='ml-3 animate-spin'/>
-                         </span>
+          <div className={`w-full flex-wrap gap-[20px] flex ${styles.flexCenter} relative`}>
+               {currentWorksInfo.map((val, index) => {
+                    return <div className={`rounded-lg max-w-sm p-6
+                    border shadow bg-gray-800 border-gray-700`}>
+                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">
+                              {val.title}
+                         </h5>
+                         <p class="mb-3 mt-5 font-normal text-gray-400
+                         h-[100px]">
+                              {val.info}
+                         </p>
+                         <div className={`${styles.flexCenter}`}>
+                              <span className={`"inline-flex items-center px-3 py-2.5 
+                              text-sm font-medium text-center text-white rounded-lg 
+                              focus:outline-none bg-teal-600`} key={"t"}>
+                                   {val.tag}
+                              </span>
+                              <span className="inline-flex items-center px-3 py-[9px] 
+                              text-sm font-medium text-center text-white rounded-lg 
+                              focus:outline-none bg-blue-600 hover:bg-blue-700 ml-5">
+                                   Work in Progress
+                                   <AiOutlineLoading3Quarters className='ml-3 animate-spin'/>
+                              </span>
+                         </div>
                     </div>
-               </div>
+               })}
+               
           </div>
 
           <h1 className={`text-gray-300 text-[20px] font-light mb-5 mt-5`}>
@@ -80,7 +83,3 @@ function Works() {
 }
 
 export default Works;
-
-/*
-
-*/

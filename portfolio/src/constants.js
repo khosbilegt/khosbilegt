@@ -15,8 +15,8 @@ export const navLinks = [
 
 export const cvLink = 'https://drive.google.com/file/d/16__jl8QNiHHZTsrWeUf0lupwqmv4bvf4/view?usp=sharing';
 
-export const heroText = "I'm a Software Developer based in Mongolia with over a year"
-+ " of freelancing experience and 6 months of professional experience. "
+export const heroText = "I'm a Software Developer based in Mongolia with over 2 years of"
++ " professional experience and nearly 3 years of freelance experience. "
 
 export const aboutText =
 [
@@ -28,14 +28,14 @@ export const aboutText =
 
 export const experienceInfo = [
   {
-    title: "Digital Solutions",
+    title: "Digital Solutions LLC",
     date: "June 2022 - November 2022",
     info: "Implemented a Media Streaming tool that is synchronized across all instances of a multiplayer game with over 5,000 users.",
     link: "Guyuk Metaverse",
     url: "https://guyuk.mn/"
   },
   {
-    title: "Digital Solutions",
+    title: "Digital Solutions LLC",
     date: "May 2022 - June 2022",
     info: "Implemented a modified version of a Linked List from scratch for a sorting algorithm that stores the info of several instances of the same mesh to optimize rendering.",
     link: "Guyuk Metaverse",
@@ -54,13 +54,41 @@ export const educationInfo = [
   },
 ]
 
-export const currentWorkInfo = {
-  title: "Cross-Platform Traffic Test App",
-  info: "Currently developing a test application for traffic schools that offers an all-in-one solution for online classes, a traffic handbook and driving practice booking.",
-  image: "https://i.imgur.com/tWciBO9.png",
-  url: "https://youtu.be/NuF38_t82_k",
-  tag: "Flutter"
-};
+export const qualificationsInfo = [
+  {
+    title: "Javascript Algorithms & Data Structures",
+    issuer: "freeCodeCamp",
+    date: "Jan 2022",
+    info: "",
+    link: "Certificate",
+    url: "https://www.freecodecamp.org/certification/Khosbilegt/javascript-algorithms-and-data-structures"
+  },
+  {
+    title: "Fundamental Information Technology Engineer Examination",
+    issuer: "ITPEC",
+    date: "April 2022",
+    info: "Passed the ITPEC FE Examination as the 3rd highest scorer in Mongolia.",
+    link: "Leaderboard",
+    url: "https://itpec.org/statsandresults/high-score-passers-202204.html"
+  },
+]
+
+export const currentWorksInfo = [
+  {
+    title: "Traffic Test App",
+    info: "Currently developing a test application for traffic schools that offers an all-in-one solution for online classes, a traffic handbook and driving practice booking.",
+    image: "https://i.imgur.com/tWciBO9.png",
+    url: "https://youtu.be/NuF38_t82_k",
+    tag: "Flutter"
+  },
+  {
+    title: "3D Classroom",
+    info: "Working on a 3D Classroom prototype for a competition, complete with voice chat, user authentication, real-time interaction with 3D models and education content.",
+    image: "https://i.imgur.com/tWciBO9.png",
+    url: "https://youtu.be/NuF38_t82_k",
+    tag: "UE4"
+  }
+];
 
 export const worksInfo = [
   {
