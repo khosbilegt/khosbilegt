@@ -8,9 +8,13 @@ export const navLinks = [
         title: "Experience"
     },
     {
+      id: "qualifications",
+      title: "Qualifications"
+    },
+    {
       id: "works",
       title: "My Works"
-  },
+    },
 ]
 
 export const cvLink = 'https://drive.google.com/file/d/16__jl8QNiHHZTsrWeUf0lupwqmv4bvf4/view?usp=sharing';
@@ -40,6 +44,13 @@ export const experienceInfo = [
     info: "Implemented a modified version of a Linked List from scratch for a sorting algorithm that stores the info of several instances of the same mesh to optimize rendering.",
     link: "Guyuk Metaverse",
     url: "https://guyuk.mn/"
+  },
+  {
+    title: "Computer Graphics Laboratory",
+    date: "September 2021 - June 2023",
+    info: "Have been hopping from one project to another, including a render engine based on Vulkan, an attempt at a mo-cap application with Kinect for Windows and an educational app to simulate physics.",
+    link: "Physics Simulator",
+    url: "https://github.com/CG-Lab-NUM/PhysicsSimulator"
   },
 ]
 
