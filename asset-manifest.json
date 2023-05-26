@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/khosbilegt/static/css/main.5406992e.css",
-    "main.js": "/khosbilegt/static/js/main.62130f18.js",
+    "main.css": "/khosbilegt/static/css/main.c432f501.css",
+    "main.js": "/khosbilegt/static/js/main.5d5c0b6a.js",
     "static/media/me.png": "/khosbilegt/static/media/me.201ac8eceba743d5eefd.png",
     "index.html": "/khosbilegt/index.html",
-    "main.5406992e.css.map": "/khosbilegt/static/css/main.5406992e.css.map",
-    "main.62130f18.js.map": "/khosbilegt/static/js/main.62130f18.js.map"
+    "main.c432f501.css.map": "/khosbilegt/static/css/main.c432f501.css.map",
+    "main.5d5c0b6a.js.map": "/khosbilegt/static/js/main.5d5c0b6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.5406992e.css",
-    "static/js/main.62130f18.js"
+    "static/css/main.c432f501.css",
+    "static/js/main.5d5c0b6a.js"
   ]
 }
