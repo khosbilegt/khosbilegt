@@ -3,15 +3,13 @@ import { BsArrowDownLeft } from 'react-icons/bs';
 import { cvLink } from '../constants';
 import styles from '../styles';
 
-/*  <a className={`${styles.flexCenter} w-[100px] h-[100px] rounded-full
-bg-blue-gradient p-[2px] cursor-pointer`} 
-href={cvLink} download="KhosooCV.png">
+/*  
 
 */
 const CVButton = () => (
-  <a className={`${styles.flexCenter} w-[100px] h-[100px] rounded-full
-  bg-blue-gradient p-[2px] cursor-pointer`} 
-  href={cvLink}>
+    <a className={`${styles.flexCenter} w-[100px] h-[100px] rounded-full
+    bg-blue-gradient p-[2px] cursor-pointer`} 
+    href={cvLink} download="KhosooCV.png">
     <div className={`${styles.flexCenter} flex-col bg-black w-[100%]
     h-[100%] rounded-full transition-all hover:bg-gray-800 focus:bg-gray-800`}>
       <div className={`${styles.flexStart} flex-col`}>

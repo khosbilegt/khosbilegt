@@ -13,7 +13,7 @@ export const navLinks = [
   },
 ]
 
-export const cvLink = '';
+export const cvLink = 'https://drive.google.com/file/d/16__jl8QNiHHZTsrWeUf0lupwqmv4bvf4/view?usp=sharing';
 
 export const heroText = "I'm a Software Developer based in Mongolia with over a year"
 + " of freelancing experience and 6 months of professional experience. "
