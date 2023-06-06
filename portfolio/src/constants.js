@@ -67,6 +67,14 @@ export const educationInfo = [
 
 export const qualificationsInfo = [
   {
+    title: "IELTS Score: 8",
+    issuer: "British Council",
+    date: "Apr 2020",
+    info: "",
+    link: "Invalid",
+    url: "..."
+  },
+  {
     title: "Javascript Algorithms & Data Structures",
     issuer: "freeCodeCamp",
     date: "Jan 2022",
