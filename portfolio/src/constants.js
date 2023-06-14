@@ -52,6 +52,13 @@ export const experienceInfo = [
     link: "Physics Simulator",
     url: "https://github.com/CG-Lab-NUM/PhysicsSimulator"
   },
+  {
+    title: "Unitel",
+    date: "June 2023 - Now",
+    info: "Started a job as a Back-End Developer, currently working on Kubernetes & a CI/CD pipeline.",
+    link: "Company Website",
+    url: "https://www.unitel.mn/unitel/"
+  },
 ]
 
 export const educationInfo = [
@@ -67,7 +74,7 @@ export const educationInfo = [
 
 export const qualificationsInfo = [
   {
-    title: "IELTS Score: 8",
+    title: "IELTS Score: 8.5",
     issuer: "British Council",
     date: "Apr 2020",
     info: "",
