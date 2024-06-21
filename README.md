@@ -1,3 +1,4 @@
+
 # The Programmer
 
 ![Banner](https://i.pinimg.com/originals/61/34/37/61343711f3f889060d37d07a309d2bd1.gif)
@@ -10,18 +11,15 @@
 | Last Name | Bilegsaikhan
 | Education | Bachelor of Computer Science
 | Level | 21
+| Occupation | Developer @[Unitel](https://www.unitel.mn/)
 
 ### Skillbook
-|Language | Proficiency | Greatest Feat
-|--|--| --
-| Javascript | Level 10/10 | Wrote a code for an Admin Panel that utilizes Firebase and React.js.
-| Dart | Level 9/10 | Wrote a Traffic Test application with fancy charts and diagrams.
-| Python | Level 8/10| Made a Data Scraper for [zangia.mn](https://www.zangia.mn) and trained a Machine Learning model that computes the salary range of job postings in a district of Ulaanbaatar by profession.
-| C++ | Level 7/10| Used the antiquated Kinect SDK to develop a [3D Space Shooter](https://youtu.be/NuF38_t82_k) game.
-| Java | Level 6/10| Implemented a Rest API to serve files with Spring Boot and a login system with Email verification.
-| C | Level 5/10| Implemented a Tic-Tac-Toe console game that uses the TCP Server-Client model.
-| Matlab | Level 4/10| Implemented a tool to recognize coins from a picture, outline them, then guess the number on top of them.
-| ...and a lot more languages that I theoretically know| 
+|Framework | Language | Greatest Feat
+|--|--|--|--
+| [Quarkus](https://quarkus.io/) | Java | Implemented a customer validation pipeline that leverages the [ХУР System](https://developer.xyp.gov.mn) (The Governmental Information Sharing System of Mongolia) and AWS Face Validation to prevent frauds, used in all branches of [Unitel](https://www.unitel.mn/unitel/) with 20,000+ uses per month.
+|[React.js](https://react.dev/) | Javascript | Built an MVP (Minimum Viable Product) copytrading abstraction based on the [Deriv](https://deriv.com/) broker complete with admin panels, implemented using [ChakraUI](https://v2.chakra-ui.com/) & [Quarkus](https://quarkus.io/), deployed on an Ubuntu Server using Apache2 at [https://ea-profits.com](https://ea-profits.com).
+|[Vulkan API](https://www.vulkan.org/) | C++ | Built a miniature render engine based on Vulkan API for research purposes, implementing Dynamic Lighting, Shadows via Vertex and Fragment Shaders. Source code at [https://github.com/CG-Lab-NUM/PhysicsSimulator](https://github.com/CG-Lab-NUM/PhysicsSimulator)
+|[OpenCV](https://opencv.org/) | Python | Built an Avatar Creator from static models based on geometrical shapes extracted from a person's face. [Read more.](https://drive.google.com/file/d/1a9TM1EF_eyNjFv2_iN6LGt7M6piuDLad/view?usp=sharing)
 
 ...but everyone knows that just knowing languages isn't enough.
 
