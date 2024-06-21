@@ -21,8 +21,6 @@
 | [Vulkan API](https://www.vulkan.org/) | C++ | Built a miniature render engine based on Vulkan API for research purposes, implementing Dynamic Lighting, Shadows via Vertex and Fragment Shaders. Source code at [https://github.com/CG-Lab-NUM/PhysicsSimulator](https://github.com/CG-Lab-NUM/PhysicsSimulator)
 | [OpenCV](https://opencv.org/) | Python | Built an Avatar Creator from static models based on geometrical shapes extracted from a person's face. [Read more.](https://drive.google.com/file/d/1a9TM1EF_eyNjFv2_iN6LGt7M6piuDLad/view?usp=sharing)
 
-...but everyone knows that just knowing languages isn't enough.
-
 ### Inventory
 ![Inventory](https://i.imgur.com/VIRQNya.png)
 
