@@ -10,7 +10,7 @@
 | First Name | Khosbilegt 
 | Last Name | Bilegsaikhan
 | Education | Bachelor of Computer Science
-| Level | 21
+| Level | 22
 | Occupation | Developer @[Unitel](https://www.unitel.mn/)
 
 ### Skillbook
