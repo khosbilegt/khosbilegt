@@ -41,4 +41,4 @@ Even more about me!
 
 LinkedIn [here.](https://www.linkedin.com/in/khosbilegt-bilegsaikhan-82929424b/)
 
-Portfolio [here.](https://khosbilegt.github.io/khosbilegt/)
+Portfolio [here.](https://khosbilegt.dev/)
