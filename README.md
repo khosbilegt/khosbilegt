@@ -6,4 +6,4 @@ I'm a Full-Stack Developer with over 3 years of professional experience. I speci
 
 LinkedIn [here.](https://www.linkedin.com/in/khosbilegt-bilegsaikhan-82929424b/)
 
-Portfolio [here.](https://khosbilegt.dev/)
+Portfolio [here.](https://koso.dev/)
