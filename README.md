@@ -4,6 +4,6 @@
 
 I'm a Full-Stack Developer with over 5 years of professional experience. I specialize in researching obscure and emerging technologies to uncover hidden opportunities. My focus is turning technical exploration into real business value.
 
-LinkedIn [here.](https://www.linkedin.com/in/khosbilegt-bilegsaikhan-82929424b/)
+LinkedIn [here.](https://www.linkedin.com/in/koso-bilegsaikhan-82929424b/)
 
 Portfolio [here.](https://koso.dev/)
