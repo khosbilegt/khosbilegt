@@ -49,6 +49,8 @@ I try to upskill myself as much as possible and I have grand delusions of a PhD 
 - Master's (Research) @ ??? (???? - ????)
 - PhD @ ??? (???? - ????)
 
+![Banner3](https://i.pinimg.com/originals/64/42/f1/6442f199be3df90ed82537394491beb5.gif)
+
 ## Webnovels
 I've also had a brief career as a webnovel author on [RoyalRoad](https://royalroad.com/) across a number of pen names. Retired due to increasing workload at university, and following that, a full-time job. Made a couple hundred dollars which made me double down on freelancing. 
 
