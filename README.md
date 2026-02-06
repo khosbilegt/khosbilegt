@@ -10,8 +10,6 @@ LinkedIn [here.](https://www.linkedin.com/in/koso-bilegsaikhan-82929424b/)
 
 Portfolio [here.](https://koso.dev/)
 
----
-
 ## Project Showcase
 Some projects I've worked on or am working on that can be found publicly in no particular order (I've got ~5-6 more complex projects hidden away in a corporate company's internal codebase):
 
@@ -34,3 +32,19 @@ Some projects I've worked on or am working on that can be found publicly in no p
 - [Avatar Creator](https://github.com/khosbilegt/AvatarCreator) — A project for an AI course that extracts the features of a face geometrically and generates a face from pre-made 3D models. Simple write-up in research paper format in Mongolian [here.](https://drive.google.com/file/d/1a9TM1EF_eyNjFv2_iN6LGt7M6piuDLad/view?usp=sharing)
 - [HoloEd](https://www.youtube.com/watch?v=volX4J6SB6M) — Virtual classroom for physics experimentation to understand common formulas, such as free fall and simple thermodynamics formulas. Entry in [DXCup](https://dxmongolia.org/), a business model competition for high school to bachelor students, utilizing digital transformation technology to encourage creativity, problem-solving and entrepreneurial skills.
 - [Management 101 Presentation](https://khosbilegt.github.io/MNGT202-Principles-Of-Management/) — A website made as an alternative to a PPT file for a Management course back during my undergrad years.
+
+## Education
+I try to upskill myself as much as possible and I have grand delusions of a PhD at a certain point in my life.
+
+- Bachelor's in Computer Science @ the National University of Mongolia (2020 - 2023)
+- Master's (Coursework) in Artificial Intelligence @ Macquarie University (2025 - Present)
+- Master's (Research) @ ??? (???? - ????)
+- PhD @ ??? (???? - ????)
+
+## Webnovels
+I've also had a brief career as a webnovel author on [RoyalRoad]https://royalroad.com/) across a number of pen names. Retired due to increasing workload at university, and following that, a full-time job. Made a couple hundred dollars which made me double down on freelancing. 
+
+- [The Paradigm - LitRPG Apocalypse](https://www.royalroad.com/fiction/51965/the-paradigm-litrpg-apocalypse)
+- [Automage Adventures - A LitRPG Story](https://www.royalroad.com/fiction/43231/automage-adventures-a-litrpg-story)
+- [Dreamers of Eternity - A Xuanhuan Webnovel](https://www.royalroad.com/fiction/47927/dreamers-of-eternity-a-xuanhuan-webnovel)
+- [The Calculator - Supervillainess Time Loop](https://www.royalroad.com/fiction/49111/the-calculator-supervillainess-time-loop)
