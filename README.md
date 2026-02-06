@@ -49,12 +49,14 @@ I try to upskill myself as much as possible and I have grand delusions of a PhD 
 - Master's (Research) @ ??? (???? - ????)
 - PhD @ ??? (???? - ????)
 
+![Banner3](https://i.pinimg.com/1200x/bc/49/a3/bc49a3171e69e2638e3e75eb779b51af.jpg)
+
 ## Webnovels
 I've also had a brief career as a webnovel author on [RoyalRoad](https://royalroad.com/) across a number of pen names. Retired due to increasing workload at university, and following that, a full-time job. Made a couple hundred dollars which made me double down on freelancing. 
-
-![Banner2](https://t4.ftcdn.net/jpg/03/44/81/77/360_F_344817722_hpHnAX4VgU9vCcYmKeoiWl9nVpOoflXD.jpg)
 
 - [The Paradigm - LitRPG Apocalypse](https://www.royalroad.com/fiction/51965/the-paradigm-litrpg-apocalypse)
 - [Automage Adventures - A LitRPG Story](https://www.royalroad.com/fiction/43231/automage-adventures-a-litrpg-story)
 - [Dreamers of Eternity - A Xuanhuan Webnovel](https://www.royalroad.com/fiction/47927/dreamers-of-eternity-a-xuanhuan-webnovel)
 - [The Calculator - Supervillainess Time Loop](https://www.royalroad.com/fiction/49111/the-calculator-supervillainess-time-loop)
+
+![Banner2](https://t4.ftcdn.net/jpg/03/44/81/77/360_F_344817722_hpHnAX4VgU9vCcYmKeoiWl9nVpOoflXD.jpg)
