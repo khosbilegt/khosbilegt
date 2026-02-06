@@ -33,6 +33,14 @@ Some projects I've worked on or am working on that can be found publicly in no p
 - [HoloEd](https://www.youtube.com/watch?v=volX4J6SB6M) — Virtual classroom for physics experimentation to understand common formulas, such as free fall and simple thermodynamics formulas. Entry in [DXCup](https://dxmongolia.org/), a business model competition for high school to bachelor students, utilizing digital transformation technology to encourage creativity, problem-solving and entrepreneurial skills.
 - [Management 101 Presentation](https://khosbilegt.github.io/MNGT202-Principles-Of-Management/) — A website made as an alternative to a PPT file for a Management course back during my undergrad years.
 
+## Project Trust-Me-Bro
+Projects I've worked on under the scope of previous roles that aren't currently public or cannot be publicized due to their nature (not secretive, just no way to expose them publicly).
+
+- Call Center SaaS - I developed a no-code tool to automate workflows, designing both the frontend and backend portions to efficiently manage incoming and outgoing calls. Used React (React Flow), Java and Asterisk PBX.
+- Data Processing Pipeline & Dashboard - Built it with TimescaleDB (Postgres), Apache Kafka and in-house ETL tool I developed in Java, alongside a dashboard viewer based in React similar to Apache Superset.
+- Face Validation Pipeline - Built it for on-site branches of the company with Java and AWS Amazon Rekognition, handling 100,000+ monthly verifications.
+- HA Kubernetes Cluster - Setup production-ready, high-availability Kubernetes cluster with metrics in Prometheus + Grafana stack.
+
 ## Education
 I try to upskill myself as much as possible and I have grand delusions of a PhD at a certain point in my life.
 
