@@ -1,6 +1,6 @@
 # Full-Stack Engineer
 
-![Banner](https://applescoop.org/image/wallpapers/mac/cyberpunk-blade-runner-2049-movie-sci-fi-scifi-city-with-neon-lights-and-holograms-best-most-popular-free-download-wallpapers-for-macbook-pro-and-macbook-air-and-microsoft-windows-desktop-pcs-4k-07-12-2024-1733638359-hd-wallpaper.png)
+![Banner](https://images4.alphacoders.com/856/thumb-1920-856858.jpg)
 
 I'm a Full-Stack Developer with over 5 years of professional experience based in Sydney, NSW. My red flag is reading a sci-fi, cautionary tale and saying: I kinda wanna make it.
 
