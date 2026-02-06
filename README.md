@@ -51,7 +51,9 @@ I try to upskill myself as much as possible and I have grand delusions of a PhD 
 
 ## Webnovels
 I've also had a brief career as a webnovel author on [RoyalRoad](https://royalroad.com/) across a number of pen names. Retired due to increasing workload at university, and following that, a full-time job. Made a couple hundred dollars which made me double down on freelancing. 
+
 ![Banner2](https://t4.ftcdn.net/jpg/03/44/81/77/360_F_344817722_hpHnAX4VgU9vCcYmKeoiWl9nVpOoflXD.jpg)
+
 - [The Paradigm - LitRPG Apocalypse](https://www.royalroad.com/fiction/51965/the-paradigm-litrpg-apocalypse)
 - [Automage Adventures - A LitRPG Story](https://www.royalroad.com/fiction/43231/automage-adventures-a-litrpg-story)
 - [Dreamers of Eternity - A Xuanhuan Webnovel](https://www.royalroad.com/fiction/47927/dreamers-of-eternity-a-xuanhuan-webnovel)
