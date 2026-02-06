@@ -2,7 +2,7 @@
 
 ![Banner](https://images4.alphacoders.com/856/thumb-1920-856858.jpg)
 
-I'm a Full-Stack Developer with over 5 years of professional experience based in Sydney, NSW. My red flag is reading a sci-fi, cautionary tale and saying: I kinda wanna make it.
+I'm a Full-Stack Engineer with over 5 years of professional experience based in Sydney, NSW. My red flag is reading a sci-fi, cautionary tale and saying: I kinda wanna make it.
 
 I know a little bit of everything, but know a bunch about software architecture, backend and DevOps. Web, mobile, AI, SaaS, Cloud, Infra etc etc. If you can name it, I probably know at least a little about it. If I'm quiet for any extended amount of time, that's probably me researching about it until I seem like I know a bit about it.
 
