@@ -6,7 +6,7 @@ I'm a Full-Stack Engineer with over 5 years of professional experience based in 
 
 I know a little bit of everything, but know a bunch about software architecture, backend and DevOps. Web, mobile, AI, SaaS, Cloud, Infra etc etc. If you can name it, I probably know at least a little about it. If I'm quiet for any extended amount of time, that's probably me researching about it until I seem like I know a bit about it.
 
-LinkedIn [here.](https://www.linkedin.com/in/koso-bilegsaikhan-82929424b/)
+LinkedIn [here.](https://www.linkedin.com/in/koso-bilegsaikhan/)
 
 Portfolio [here.](https://koso.dev/)
 
